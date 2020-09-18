@@ -32,7 +32,13 @@ input {
 .nav-h a img{
     border-radius: 100%;
     margin-top: -8px;
-    box-shadow: 0 20px 10px 0 rgba(38, 51, 97,  .28);}
+    box-shadow: 0 20px 10px 0 rgba(38, 51, 97,  .28);
+}
+
+
+.navbar-item{
+    width: auto;
+}
 
 
 /*Login*/
@@ -134,7 +140,7 @@ input {
     justify-content: space-evenly;
 }
 .sign-up img{
-    width: 100px;
+    width: 45%;
 
 }
 
