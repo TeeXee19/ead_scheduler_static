@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8be528c-3c7f-4c2d-ad83-89a1c91b470b" name="Default Changelist" comment="Added the Dashboard Worked on the create task form" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hYC9jBQuCJpHWMhhITMSmiRetl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8be528c-3c7f-4c2d-ad83-89a1c91b470b" name="Default Changelist" comment="" />
+      <created>1600178494945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600178494945</updated>
+      <workItem from="1600178533062" duration="25084000" />
+      <workItem from="1600379533416" duration="4353000" />
+      <workItem from="1600413466974" duration="20445000" />
+      <workItem from="1600539341715" duration="6781000" />
+      <workItem from="1600590742814" duration="409000" />
+      <workItem from="1600594938517" duration="1030000" />
+      <workItem from="1600938664819" duration="1176000" />
+    </task>
+    <task id="LOCAL-00001" summary="1) Added the Sign up Page&#10;2) Added the bootstrap.min.js script ot the index page&#10;3) Added the Css for both the login and sign up pages as well as that of the index page.">
+      <created>1600383362789</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600383362789</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added an image to the sign up page&#10;Adjusted the navbar on the index page">
+      <created>1600415157007</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600415157007</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added the Dashboard Worked on the create task form">
+      <created>1600542772917</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600542772917</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="1) Added the Sign up Page&#10;2) Added the bootstrap.min.js script ot the index page&#10;3) Added the Css for both the login and sign up pages as well as that of the index page." />
+    <MESSAGE value="Added an image to the sign up page&#10;Adjusted the navbar on the index page" />
+    <MESSAGE value="Added the Dashboard Worked on the create task form" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the Dashboard Worked on the create task form" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="42" key="#Intentions" timestamp="1600328636059">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="42" key="#Intentions/0.0.1366.768@0.0.1366.768" timestamp="1600328636059" />
+    <state x="434" y="208" key="#Notifications" timestamp="1600591208813">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="434" y="208" key="#Notifications/0.0.1366.768@0.0.1366.768" timestamp="1600591208813" />
+    <state x="534" y="282" key="Github.ShareDialog" timestamp="1600336557577">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="534" y="282" key="Github.ShareDialog/0.0.1366.768@0.0.1366.768" timestamp="1600336557577" />
+    <state x="454" y="89" key="Github.UntrackedFilesDialog" timestamp="1600336729085">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="454" y="89" key="Github.UntrackedFilesDialog/0.0.1366.768@0.0.1366.768" timestamp="1600336729085" />
+    <state x="184" y="29" key="SettingsEditor" timestamp="1600413056351">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1600413056351" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1600546178987">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1600546178987" />
+    <state x="0" y="0" width="585" height="768" key="find.popup" timestamp="1600334167407">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="0" width="585" height="768" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1600334167407" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1600380738899">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1600380738899" />
+    <state x="346" y="89" key="search.everywhere.popup" timestamp="1600420727650">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1600420727650" />
+  </component>
+</project>
